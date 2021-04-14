@@ -13,7 +13,7 @@ This repository contains a [Google Tab Manager Tag template](https://developers.
 ## Options
 
 ### Company Key
-Given an Apex Chat URL such as *https://www.apex.live/scripts/invitation.ashx?company=**mycompany***, extract the text after *=*, in this case **mycompany**.
+Given an Apex Chat URL such as *https://www.apex.live/scripts/invitation.ashx?company=mycompany*, extract the text after *=*, in this case **mycompany**.
 
 ## Contributing
 See our [contributing guidelines](CONTRIBUTING.md).
