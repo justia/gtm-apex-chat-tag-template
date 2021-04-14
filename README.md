@@ -1,5 +1,19 @@
-# example-community-template
+# Google Tag Manager Apex Chat Tag Template
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+## Summary
+This repository contains a [Google Tab Manager Tag template](https://developers.google.com/tag-manager/templates) that injects the [Apex Chat](https://www.apexchat.com/) into the page given the company key. Please check their [Terms of Service](https://www.apexchat.com/terms-of-service/) before using this tag.
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+## Usage
+- Open a **Google Tag Manager** web container and click into the **Templates** from the left sidebar menu.
+- In the **Tag Templates** section, click on **Search Gallery** button.
+- Click on the Search Icon then type "apex".
+- Select the **Apex Chat** template to your workspace.
+- Use the new template as needed.
+
+## Options
+
+### Company Key
+Given an Apex Chat URL such as *https://www.apex.live/scripts/invitation.ashx?company=**mycompany***, extract the text after *=*, in this case **mycompany**.
+
+## Contributing
+See our [contributing guidelines](CONTRIBUTING.md).
